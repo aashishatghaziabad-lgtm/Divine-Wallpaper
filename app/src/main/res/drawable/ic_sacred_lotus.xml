@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Center petal -->
+    <path
+        android:fillColor="#E08B2B"
+        android:pathData="M12,3 C11.2,6.5 10.5,10 12,17 C13.5,10 12.8,6.5 12,3 Z" />
+    <!-- Left inner petal -->
+    <path
+        android:fillColor="#E08B2B"
+        android:pathData="M12,17 C8.5,14 6.5,9.5 8,6 C9.5,9.5 11,14 12,17 Z" />
+    <!-- Right inner petal -->
+    <path
+        android:fillColor="#E08B2B"
+        android:pathData="M12,17 C13,14 14.5,9.5 16,6 C17.5,9.5 15.5,14 12,17 Z" />
+    <!-- Left outer petal -->
+    <path
+        android:fillColor="#E08B2B"
+        android:pathData="M12,17 C7,16 3,13 3.5,10 C6.5,11.5 9.5,14.5 12,17 Z" />
+    <!-- Right outer petal -->
+    <path
+        android:fillColor="#E08B2B"
+        android:pathData="M12,17 C14.5,14.5 17.5,11.5 20.5,10 C21,13 17,16 12,17 Z" />
+    <!-- Base calyx -->
+    <path
+        android:fillColor="#C87018"
+        android:pathData="M7,18 C9,19.5 15,19.5 17,18 C15,20.5 9,20.5 7,18 Z" />
+</vector>

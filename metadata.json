@@ -1,0 +1,6 @@
+{
+  "name": "Divine Wallpapers",
+  "description": "A premium Hindu devotional wallpaper app to browse, search, favorite, download, and set sacred wallpapers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
